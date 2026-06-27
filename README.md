@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-MedGemma_1.5-yellow.svg)](https://huggingface.co/google/medgemma-1.5-4b-it)
 
-> 👉 **[Click here to try the Live Web Demo on Hugging Face Spaces]** *(Insert your link here!)*
+> 👉 **[Click here to try the Live Web Demo on Hugging Face Spaces]** *([(https://huggingface.co/spaces/TejaswiniRay/Clinical-Triage-Demo)])*
 > 
 > 👉 **[Read the full technical article about this project]** *(Insert your article link here!)*
 
