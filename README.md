@@ -6,7 +6,7 @@
 
 > 👉 **[Click here to try the Live Web Demo on Hugging Face Spaces]** *([(https://huggingface.co/spaces/TejaswiniRay/Clinical-Triage-Demo)])*
 > 
-> 👉 **[Read the full technical article about this project]** *(Insert your article link here!)*
+> 👉 **[Read the full technical article about this project]** *(https://medium.com/@tej.ray448/building-a-clinical-triage-ai-with-googles-medgemma-1-5-2ab1a49d03b2)*
 
 ## 📌 Project Overview
 Healthcare systems face massive administrative bottlenecks, with doctors spending hours reading intake forms. This project is an end-to-end, privacy-first AI Triage System built using Google's **MedGemma 1.5 (4B)** open-weight model. 
