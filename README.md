@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 **5. Run the Application:**
 ```bash
-streamlit run app.py
+streamlit run Triage.py
 ```
 
 ## 🏥 How to Use It
